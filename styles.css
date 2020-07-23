@@ -67,20 +67,20 @@ h3 {
 
 @media (max-width: 1048px) and (min-width: 800) {
   .index-h1 {
-    font-size: 4rem;
+    font-size: 7rem;
   }
 
   .index-p {
-    font-size: 3rem;
+    font-size: 5rem;
   }
 }
 
 @media (max-width: 800px) {
   .index-h1 {
-    font-size: 3rem;
+    font-size: 5rem;
   }
 
   .index-p {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 }
