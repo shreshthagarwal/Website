@@ -74,6 +74,12 @@ h3 {
   .index-p {
     font-size: 5rem;
   }
+  
+  .BottomCloud {
+    position: absolute;
+    left: 300px;
+    top: 350px;
+ }
 }
 
 @media (max-width: 800px) {
